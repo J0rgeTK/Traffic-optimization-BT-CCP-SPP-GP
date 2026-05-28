@@ -1,0 +1,2 @@
+﻿campania_id,cruce,movimiento,tipo_dia,t_inicio,t_fin,flujo_veh_h,n_muestras,desviacion,percentil_85,fuente,observaciones
+3,Costa Verde,Lateral,Laboral,06:00:00,06:15:00,420,3,,,Camara,Flujo horario crudo

@@ -1,0 +1,3 @@
+﻿version_prog_id,cruce,plan_id,fase_id,duracion_s,entreverde_s,cum_inicio_s,cum_fin_s,es_verde_lateral,ciclo_s,fuente,observaciones
+3,Costa Verde,1,1,60,4,0,64,0,142,UOCT/SCATS,Fase principal
+3,Costa Verde,1,2,30,4,64,98,1,142,UOCT/SCATS,Fase lateral modelada

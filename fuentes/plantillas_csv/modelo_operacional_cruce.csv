@@ -1,0 +1,3 @@
+﻿cruce,tipo_modelo,usa_reconfiguracion,version_prog_id,descripcion,fuente
+Diagonal Bio Bio,RECONFIG,1,2,Base + HCALL + prevaciado + reconfiguracion,Regla de proyecto
+Costa Verde,NOREPROG,0,1,Base + HCALL + prevaciado + noreprog/base,Regla de proyecto

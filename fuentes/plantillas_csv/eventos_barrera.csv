@@ -1,0 +1,2 @@
+﻿itinerario_id,cruce,servicio_codigo,sentido,instante_paso,hcall_in,hcall_out,tiempo_barrera_s,fuente,metodo_calculo,nivel_confianza,observaciones
+2,Costa Verde,20245,CW,06:31:20,06:30:45,06:32:05,80,Estimado,paso_tren_margen,Media,Ejemplo

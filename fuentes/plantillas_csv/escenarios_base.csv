@@ -1,0 +1,2 @@
+﻿escenario_id,nombre,cruce,version_prog_id,campania_id,itinerario_id,tipo_dia,hora_inicio,hora_fin,headway_s,num_carriles,buffer_pre_s,k_dem,alpha,modo,notas
+10,Costa Verde - Reprog N2 extendida,Costa Verde,3,3,2,Laboral,06:00:00,21:00:00,2.0,2,0,1.1,0.75,corrected,Escenario de prueba
