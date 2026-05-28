@@ -1,0 +1,16 @@
+[project]
+name = "modelo-cruces-l2"
+version = "0.2.0"
+description = "Modelo Streamlit/Python para simulacion de cruces ferroviarios L2 Biotren"
+requires-python = ">=3.10"
+dependencies = [
+  "streamlit>=1.40",
+  "numpy>=1.26",
+  "pandas>=2.0",
+  "openpyxl>=3.1",
+  "pydeck>=0.9",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "src"]
+testpaths = ["tests"]
